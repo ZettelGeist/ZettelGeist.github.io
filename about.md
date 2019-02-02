@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 A note is nothing more than a YAML document. Please note that, hereafter, we may use the terms notes, cards, and zettels rather interchangeably. We’ve used other systems and sometimes find ourselves using the terminology rather freely.
 
 When we use the term note, please keep in mind that the term as we see it is interchangeable with index cards, cards, or zettels. So regardless of what terminlology you prefer, we welcome you!
