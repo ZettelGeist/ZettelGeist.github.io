@@ -1,1 +1,1 @@
-Contact: Ethan Mohan, emohan@luc.edu
+Contact: Ethan, emohan@luc.edu
