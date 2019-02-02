@@ -1,8 +1,4 @@
----
-layout: page
-title: Research
-permalink: /research/
----
+
 
 ### research topic + short bio 1
 
