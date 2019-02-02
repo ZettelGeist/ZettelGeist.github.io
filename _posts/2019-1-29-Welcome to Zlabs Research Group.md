@@ -1,4 +1,4 @@
-### Welcome to Zlabs Research Group!
+
 
                         We see it all around campus and in statistics.
                         ZettelGeist is a plaintext note-taking system, 
