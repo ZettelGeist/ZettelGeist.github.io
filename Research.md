@@ -18,4 +18,4 @@ An even even more open-source effort focused on building state-of-the-art collab
 
 ### Contact
 
-[email@domain.com](mailto:email@domain.com)
+[thiruvathukal@gmail.com](mailto:thiruvathukal@gmail.com)
