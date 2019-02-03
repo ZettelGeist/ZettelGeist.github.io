@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background-color: white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -363,4 +363,9 @@ footer {
 }
 
 .entry {
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
 }
