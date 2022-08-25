@@ -1,13 +1,5 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -16,18 +8,37 @@
 
 title: ZettelGeist
 # email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   A terminal-based note-taking system for people who want to create, store, retrieve, and transform a lot of information.
   Aimed at but not limited to scholarly research.
+repository: "ZettelGeist/zettelgeist.github.io"
+source: .
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+url: "https://zettelgeist.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username:
+github_username: ZettelGeist
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
+
+minima:
+  skin: dark
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+incremental: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# Github requirements
+lsi: false
+safe: true # this setting causes bundle to throw the error reported here in local builds https://github.com/pages-themes/leap-day/issues/4
+gist:
+  noscript: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
