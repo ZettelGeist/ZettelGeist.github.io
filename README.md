@@ -1,1 +1,1 @@
-Contact: Ethan, emohan@luc.edu
+This repository contains files for the ZettelGeist homepage.
