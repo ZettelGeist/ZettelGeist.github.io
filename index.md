@@ -34,7 +34,7 @@ Documentation on getting started is available in [the wiki](https://github.com/Z
 If you write in Markdown and want a powerful lightweight indexing system to run alongside `git` version control, ZettelGeist may be for you.
 Documents to be indexed by ZettelGeist are each supplied with YAML metadata.
 Metadata may include tags, a bibliographical citation, title, and summary, among other fields.
-ZettelGeist imports the Markdown documents on specified a working tree into a database.
+ZettelGeist imports the Markdown documents on a specified working tree into a database.
 The database mirrors the contents of the working tree and forms the target of queries.
 
 Metadata can be edited directly with your preferred text editor or batch-edited with ZettelGeist, by applying transformations to documents matching a given query.
@@ -51,6 +51,6 @@ ZettelGeist is in development and seeks user testing and feedback.
 # Community
 
 ZettelGeist is the creation of [George K. Thiruvathukal](https://gkt.cs.luc.edu/)
-  in collaboration with [David B. Dennis](https://www.luc.edu/history/people/facultyandstaffdirectory/facultybytheme/politics/dennisdavidb.shtml)
-  and [Ian Cornelius](https://icornelius.github.io/).
+  in collaboration with [David B. Dennis](https://www.luc.edu/history/people/facultyandstaffdirectory/facultybytheme/politics/dennisdavidb.shtml),
+  [Ian Cornelius](https://icornelius.github.io/), and others.
 Collaborators are welcome.
