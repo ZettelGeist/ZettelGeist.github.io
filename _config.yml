@@ -9,8 +9,7 @@
 title: ZettelGeist
 # email: your-email@example.com
 description: >-
-  A terminal-based note-taking system for people who want to create, store, retrieve, and transform a lot of information.
-  Aimed at but not limited to scholarly research.
+  A terminal-based note-taking system.
 repository: "ZettelGeist/zettelgeist.github.io"
 source: .
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -19,7 +18,8 @@ url: "https://zettelgeist.github.io" # the base hostname & protocol for your sit
 github_username: ZettelGeist
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 # plugins:
 #   - jekyll-feed
 
